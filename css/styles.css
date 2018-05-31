@@ -5,5 +5,9 @@ img{
 .character{
 text-align: center;
 background-color: #DDF5FF;
-padding: 2em;
+}
+
+.char-syles {
+  padding: 2em;
+  border: 3px solid black;
 }
