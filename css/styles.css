@@ -1,0 +1,9 @@
+img{
+  width: 100%;
+}
+
+.character{
+text-align: center;
+background-color: #DDF5FF;
+padding: 2em;
+}
